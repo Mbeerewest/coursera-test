@@ -37,7 +37,7 @@
    <main>
    <div style="bgcolor:olive;">
    <marquee><h1 style="font-weight: bold; font-family: Times New Roman; text-align: center;color:Maroon;" >WHEN I WAS A KID!</h1></marquee>
-   <img src="myimages/Maxine.png" style="float:left; width: 400px; height:400px;"/>
+   <img src="https://pin.it/5EG0vFJ" style="float:left; width: 400px; height:400px;"/>
    <p style="color:navy; font-size: 13px; font-weight: bold;font-family:Times New Roman;" >I Maxwell Maxine, when I was a kid:<br/><span style="color: red;">PUSSY </span>was a cat🐱😂<br/> <span style="color:red;">BITCH </span>was a female dog🐕🐕😂<br/> <span style="color: red;">DICK </span> was a cartoon character🤣🤣<br/> <span style="color:red;"> COCK </span> was a male bird🐓🤣<br/> <span style="color:red;"> SEX </span> was a gender🙎‍♂️🙎‍♀️😂
    <br/> <span style="color:red;">RUBBER </span> was an eraser😂😂<br/> <span style="color:red;">SCREW </span> was a tool😂🤣 <br/> <span style="color:red;">BAll </span> was a round toy⚽️😂 <br/> <span style="color:red;">LUBRICANT </span> was oil😂😂 <br/> <span syle="color:red;"> ORAL </span> meant poetry recitation 🤣🤣 <br/> <span style="color:red;">MISSIONARY </span> was a man of God🤣🤣 <br/>and <span style="color: red;">69 </span> was just a number after 68 🤦‍♂️🤦‍♂️😂😂<br/> I am now thinking of the next generation!</p>
    <hr>
